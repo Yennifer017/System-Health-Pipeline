@@ -1,0 +1,1352 @@
+[
+  {
+    "timestamp": "2026-07-04T14:16:50.439630-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 15,
+    "disk": 41,
+    "ram": 5948,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.441519-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 68,
+    "ram": 598,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.442908-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 88,
+    "disk": 94,
+    "ram": 91,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.444438-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 41,
+    "disk": 15,
+    "ram": 2640,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.445410-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 75,
+    "disk": 74,
+    "ram": 690,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.446537-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 100,
+    "disk": 95,
+    "ram": 306,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.447840-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 24,
+    "disk": 27,
+    "ram": 6591,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.449137-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 64,
+    "ram": 1635,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.450205-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 89,
+    "disk": 97,
+    "ram": 484,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.451281-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 58,
+    "disk": 53,
+    "ram": 2336,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.452278-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 73,
+    "disk": 84,
+    "ram": 822,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.453265-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 99,
+    "disk": 87,
+    "ram": 93,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.454919-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 9,
+    "disk": 57,
+    "ram": 3430,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.456555-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 85,
+    "disk": 64,
+    "ram": 1673,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.457806-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 98,
+    "disk": 86,
+    "ram": 308,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.458811-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 32,
+    "disk": 32,
+    "ram": 2328,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.459768-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 79,
+    "disk": 73,
+    "ram": 1492,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.460613-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 94,
+    "disk": 88,
+    "ram": 226,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.461501-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 46,
+    "disk": 47,
+    "ram": 3686,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.462453-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 71,
+    "disk": 80,
+    "ram": 1291,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.463320-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 99,
+    "disk": 94,
+    "ram": 252,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.464137-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 6,
+    "disk": 9,
+    "ram": 6475,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.465061-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 66,
+    "ram": 637,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.466044-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 87,
+    "disk": 98,
+    "ram": 226,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.466969-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 30,
+    "disk": 21,
+    "ram": 6963,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.467824-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 62,
+    "disk": 72,
+    "ram": 1757,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.468714-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 91,
+    "disk": 97,
+    "ram": 305,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.469650-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 33,
+    "disk": 46,
+    "ram": 4489,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.470441-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 76,
+    "disk": 80,
+    "ram": 1922,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.471291-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 92,
+    "disk": 94,
+    "ram": 459,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.472179-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 57,
+    "disk": 40,
+    "ram": 3129,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.473220-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 62,
+    "disk": 73,
+    "ram": 1875,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.474271-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 89,
+    "disk": 87,
+    "ram": 90,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.475319-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 13,
+    "disk": 50,
+    "ram": 5811,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.476320-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 84,
+    "disk": 74,
+    "ram": 1160,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.477426-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 92,
+    "disk": 96,
+    "ram": 166,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.478596-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 42,
+    "disk": 59,
+    "ram": 7172,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.479597-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 78,
+    "disk": 73,
+    "ram": 1678,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.480358-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 92,
+    "disk": 88,
+    "ram": 198,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.481223-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 31,
+    "disk": 5,
+    "ram": 5170,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.482093-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 73,
+    "ram": 1091,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.482827-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 100,
+    "disk": 93,
+    "ram": 200,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.483674-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 12,
+    "disk": 3,
+    "ram": 4814,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.484525-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 73,
+    "disk": 70,
+    "ram": 1586,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.485324-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 94,
+    "disk": 90,
+    "ram": 336,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.486116-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 10,
+    "disk": 33,
+    "ram": 3435,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.486892-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 69,
+    "disk": 81,
+    "ram": 741,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.487764-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 89,
+    "disk": 93,
+    "ram": 497,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.488802-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 18,
+    "disk": 33,
+    "ram": 2660,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.489874-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 61,
+    "disk": 61,
+    "ram": 742,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.490726-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 97,
+    "disk": 88,
+    "ram": 386,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.491534-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 45,
+    "disk": 38,
+    "ram": 3300,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.492327-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 74,
+    "disk": 72,
+    "ram": 661,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.493220-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 86,
+    "disk": 94,
+    "ram": 101,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.494275-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 53,
+    "disk": 30,
+    "ram": 6107,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.495408-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 81,
+    "disk": 72,
+    "ram": 1564,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.496714-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 93,
+    "disk": 94,
+    "ram": 206,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.498101-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 27,
+    "disk": 58,
+    "ram": 2359,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.499073-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 64,
+    "disk": 72,
+    "ram": 1046,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.500078-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 97,
+    "disk": 87,
+    "ram": 435,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.501376-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 59,
+    "disk": 16,
+    "ram": 6709,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.502451-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 62,
+    "disk": 64,
+    "ram": 1568,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.503415-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 98,
+    "ram": 303,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.504303-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 33,
+    "disk": 53,
+    "ram": 4800,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.505159-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 62,
+    "disk": 72,
+    "ram": 506,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.506015-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 97,
+    "ram": 380,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.507120-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 40,
+    "disk": 45,
+    "ram": 4849,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.508142-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 75,
+    "disk": 82,
+    "ram": 1257,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.508981-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 99,
+    "disk": 90,
+    "ram": 496,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.510140-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 6,
+    "disk": 50,
+    "ram": 2900,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.511106-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 83,
+    "ram": 525,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.512253-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 100,
+    "disk": 99,
+    "ram": 179,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.513112-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 30,
+    "disk": 21,
+    "ram": 4443,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.513990-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 66,
+    "disk": 61,
+    "ram": 565,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.514780-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 99,
+    "disk": 94,
+    "ram": 277,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.515576-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 34,
+    "disk": 39,
+    "ram": 4078,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.516369-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 72,
+    "disk": 76,
+    "ram": 1740,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.517397-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 89,
+    "disk": 100,
+    "ram": 170,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.518300-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 36,
+    "disk": 18,
+    "ram": 6007,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.519172-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 75,
+    "disk": 63,
+    "ram": 1893,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.519931-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 98,
+    "disk": 95,
+    "ram": 312,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.520726-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 14,
+    "disk": 32,
+    "ram": 4126,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.521563-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 74,
+    "disk": 65,
+    "ram": 1445,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.522366-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 98,
+    "ram": 44,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.523224-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 41,
+    "disk": 21,
+    "ram": 6664,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.524041-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 65,
+    "ram": 630,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.524779-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 100,
+    "ram": 283,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.525660-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 47,
+    "disk": 51,
+    "ram": 3951,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.526479-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 64,
+    "disk": 85,
+    "ram": 1105,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.527244-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 93,
+    "disk": 86,
+    "ram": 121,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.527977-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 35,
+    "disk": 7,
+    "ram": 7305,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.528737-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 77,
+    "disk": 68,
+    "ram": 620,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.529540-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 89,
+    "disk": 89,
+    "ram": 344,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.530435-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 30,
+    "disk": 28,
+    "ram": 6099,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.531178-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 76,
+    "disk": 67,
+    "ram": 1634,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.531909-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 86,
+    "disk": 87,
+    "ram": 309,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.532614-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 46,
+    "disk": 13,
+    "ram": 7849,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.533303-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 72,
+    "disk": 76,
+    "ram": 1613,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.534118-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 99,
+    "ram": 410,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.534890-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 3,
+    "disk": 47,
+    "ram": 6474,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.535722-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 82,
+    "disk": 72,
+    "ram": 712,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.536443-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 98,
+    "disk": 100,
+    "ram": 10,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.537235-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 7,
+    "disk": 17,
+    "ram": 5280,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.537964-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 61,
+    "disk": 67,
+    "ram": 1488,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.538791-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 97,
+    "disk": 100,
+    "ram": 212,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.539718-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 21,
+    "disk": 51,
+    "ram": 8000,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.540545-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 84,
+    "disk": 61,
+    "ram": 1003,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.541336-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 95,
+    "disk": 95,
+    "ram": 366,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.542122-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 24,
+    "disk": 48,
+    "ram": 2984,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.542855-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 68,
+    "disk": 75,
+    "ram": 1873,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.543542-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 86,
+    "disk": 92,
+    "ram": 77,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.544244-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 28,
+    "disk": 42,
+    "ram": 5131,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.544944-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 73,
+    "disk": 65,
+    "ram": 1153,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.545766-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 87,
+    "disk": 92,
+    "ram": 12,
+    "cpu_status": "WARNING",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.546579-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 11,
+    "disk": 31,
+    "ram": 2691,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.547376-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 75,
+    "disk": 68,
+    "ram": 2039,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.548242-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 90,
+    "disk": 95,
+    "ram": 391,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.549027-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 8,
+    "disk": 55,
+    "ram": 4130,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.549968-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 74,
+    "disk": 70,
+    "ram": 1923,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.550825-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 90,
+    "disk": 99,
+    "ram": 93,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.551571-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 44,
+    "disk": 54,
+    "ram": 8059,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.552261-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 66,
+    "disk": 69,
+    "ram": 996,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.552969-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 93,
+    "disk": 90,
+    "ram": 142,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.553820-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 8,
+    "disk": 34,
+    "ram": 5859,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.554480-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 67,
+    "disk": 81,
+    "ram": 1892,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.555331-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 100,
+    "disk": 94,
+    "ram": 492,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.556158-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 43,
+    "disk": 14,
+    "ram": 5471,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.556886-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 80,
+    "disk": 83,
+    "ram": 550,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.557736-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 97,
+    "disk": 88,
+    "ram": 301,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.558578-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 17,
+    "disk": 6,
+    "ram": 5086,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.559352-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 83,
+    "disk": 79,
+    "ram": 863,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.560196-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 90,
+    "disk": 90,
+    "ram": 377,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.561042-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 53,
+    "disk": 45,
+    "ram": 6646,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.561881-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 61,
+    "disk": 73,
+    "ram": 642,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.562674-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 93,
+    "disk": 96,
+    "ram": 197,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.563432-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 60,
+    "disk": 15,
+    "ram": 7255,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.564148-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 85,
+    "disk": 82,
+    "ram": 963,
+    "cpu_status": "WARNING",
+    "disk_status": "WARNING",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.564968-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 92,
+    "disk": 93,
+    "ram": 335,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.565890-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 15,
+    "disk": 2,
+    "ram": 3975,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.566706-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 68,
+    "disk": 61,
+    "ram": 976,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.567518-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 96,
+    "disk": 100,
+    "ram": 57,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.568591-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 21,
+    "disk": 27,
+    "ram": 2722,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.569476-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 76,
+    "disk": 61,
+    "ram": 2001,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.570340-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 91,
+    "disk": 89,
+    "ram": 351,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.571619-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 53,
+    "disk": 11,
+    "ram": 3962,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.572708-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 84,
+    "disk": 62,
+    "ram": 1487,
+    "cpu_status": "WARNING",
+    "disk_status": "INFO",
+    "ram_status": "WARNING"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.573912-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 92,
+    "disk": 96,
+    "ram": 396,
+    "cpu_status": "CRITICAL",
+    "disk_status": "CRITICAL",
+    "ram_status": "CRITICAL"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.575010-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 57,
+    "disk": 41,
+    "ram": 2688,
+    "cpu_status": "INFO",
+    "disk_status": "INFO",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.576213-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 61,
+    "disk": 77,
+    "ram": 1965,
+    "cpu_status": "INFO",
+    "disk_status": "WARNING",
+    "ram_status": "INFO"
+  },
+  {
+    "timestamp": "2026-07-04T14:16:50.577384-06:00 Samsung SystemHealthMonitor:",
+    "cpu": 100,
+    "disk": 88,
+    "ram": 252,
+    "cpu_status": "CRITICAL",
+    "disk_status": "WARNING",
+    "ram_status": "CRITICAL"
+  }
+]

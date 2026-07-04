@@ -1,11 +1,7 @@
 param (
-    [string]$InputFile = "../../output/raw_metrics.csv",
-    [string]$OutputFile = "../../output/analysis.json"
+    [string]$InputFile = "./output/raw_metrics.csv",
+    [string]$OutputFile = "./output/analysis.json"
 )
-
-Write-Host "----------------------------"
-Write-Host "SystemHealthMonitor Analyzer"
-Write-Host "----------------------------"
 
 if (!(Test-Path $InputFile)) {
     Write-Error "Input file not found: $InputFile"
@@ -69,9 +65,8 @@ function Convert-Metric {
 }
 
 
-$result = @()
-foreach ($row in $data) {
-    Convert-ToMetric -Row $row
+$result = foreach ($row in $data) {
+    Convert-Metric -Row $row
 }
 $result | ConvertTo-Json -Depth 10 | Out-File -Encoding UTF8 $OutputFile
 

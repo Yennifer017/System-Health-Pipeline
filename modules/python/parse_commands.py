@@ -1,21 +1,20 @@
-def parse_command(command: str) -> tuple[str, int | None]:
+def parse_command(args: list[str]) -> int | None:
     """
-    Parses commands such as:
+    Parses the optional numeric argument of a Telegram command.
 
-    /critical
-    /critical 10
-    /warning 5
-    /info
-    /sumary
+    Examples:
+        /critical      -> None
+        /critical 10   -> 10
+        /critical 100  -> 20
+        /critical abc  -> None
     """
+    if not args:
+        return None
 
-    parts = command.split()
-
-    action = parts[0].lower()
-
-    limit = None
-
-    if len(parts) == 2 and parts[1].isdigit():
-        limit = int(parts[1])
-
-    return action, limit
+    try:
+        limit = int(args[0])
+        if limit < 1:
+            return None
+        return limit
+    except ValueError:
+        return None

@@ -1,7 +1,7 @@
 import json
 
 
-DEFAULT_LIMIT = 5
+DEFAULT_LIMIT = 1
 MAX_LIMIT = 20
 
 
@@ -43,7 +43,8 @@ def get_last_logs(data: list[dict],
     """
     Returns the last N records.
     """
-
+    if(limit is None):
+        limit = DEFAULT_LIMIT
     return data[-limit:]
 
 
