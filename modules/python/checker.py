@@ -1,7 +1,7 @@
 import json
 
-
-DEFAULT_LIMIT = 1
+MIN_LIMIT = 1
+DEFAULT = 5
 MAX_LIMIT = 20
 
 
@@ -20,7 +20,7 @@ def load_analysis(path: str) -> list[dict]:
 
 
 def validate_limit(limit: int | None,
-                   default: int = DEFAULT_LIMIT,
+                   default: int = DEFAULT,
                    maximum: int = MAX_LIMIT) -> int:
     """
     Validates the requested limit.
@@ -32,7 +32,7 @@ def validate_limit(limit: int | None,
     if limit is None:
         return default
 
-    if limit < 1:
+    if limit < MIN_LIMIT:
         return default
 
     return min(limit, maximum)
@@ -44,13 +44,13 @@ def get_last_logs(data: list[dict],
     Returns the last N records.
     """
     if(limit is None):
-        limit = DEFAULT_LIMIT
+        limit = DEFAULT
     return data[-limit:]
 
 
 def get_logs_by_level(data: list[dict],
                       level: str,
-                      limit: int = DEFAULT_LIMIT) -> list[dict]:
+                      limit: int = DEFAULT) -> list[dict]:
     """
     Returns the latest records that contain the requested severity.
 
